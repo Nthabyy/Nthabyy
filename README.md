@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nthavela Arcadia Ntimani</h1>
+<h2 align="center">
+  <img src="https://gifdb.com/images/high/animated-graphic-hi-ieriy9qhgk7uwlpk.gif" alt="Profile Image" width="150" height="150" />
+</h2>
 
 <h3 align="center">A passionate Data scientist, AI, ML, Data Engineer, Cloud Engineering</h3>
 
