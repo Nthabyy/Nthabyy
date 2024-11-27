@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **ML Algorithms, NLP, AI, Cloud Computing, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/ntimaniarcadia](https://www.datascienceportfol.io/ntimaniarcadia)
-
-- 📫 How to reach me **ntimani.arcadia@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arcadia ntimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arcadia ntimani" height="30" width="40" /></a>
