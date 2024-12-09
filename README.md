@@ -3,16 +3,16 @@
   <img src="https://gifdb.com/images/high/animated-graphic-hi-ieriy9qhgk7uwlpk.gif" alt="Profile Image" width="150" height="150" />
 </h2>
 
-<h3 align="center">A passionate Data Scientist, AI, ML, Data Engineer, Cloud Engineering Enthusiast</h3>
+<h3 align="center">A passionate Data Scientist, AI, ML, Data Engineer, and Cloud Engineering Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nthabby&label=Profile%20views&color=0e75b6&style=flat" alt="nthabby" /> </p>
 
-- 🌱 I’m currently learning **ML Algorithms, NLP, AI, Cloud Computing, Deep Learning**
+- 🌱 I’m currently learning **ML Algorithms, NLP, AI, Cloud Computing, and Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arcadia-ntimani-9ab26a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arcadia-ntimani" height="30" width="40" /></a>
-<a href="https://fb.com/nthaby arcadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nthaby arcadia" height="30" width="40" /></a>
+<a href="https://fb.com/nthaby.arcadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nthaby.arcadia" height="30" width="40" /></a>
 <a href="https://instagram.com/nthabii_arcadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nthabii_arcadia" height="30" width="40" /></a>
 <a href="mailto:ntimani.arcadia@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" /></a>
 </p>
@@ -54,4 +54,7 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nthabby&show_icons=true&locale=en" alt="nthabby" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nthabby&show_icons=true&theme=radical&cache_seconds=86400" alt="nthabby" />
+</p>
